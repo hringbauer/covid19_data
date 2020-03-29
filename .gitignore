@@ -1,1 +1,4 @@
 data/*
+bins/mafft-win/*
+output/*
+bins/*
