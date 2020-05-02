@@ -16,5 +16,4 @@ Downoad meta data from nextstrain git.
 follow instructions there, top to bottom
 
 4) run `notebooks/create_h5.ipynb`
-follow instructions there.
-Creates h5 and also tables and .csvs of interesting loci and MAFs
+follow instructions there
