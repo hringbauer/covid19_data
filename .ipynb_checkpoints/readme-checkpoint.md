@@ -2,7 +2,7 @@
 
 This is a project to analyze data from publicly available COVID19 viral data.
 
-The goal is to use genetic data to learn about key parameters and whether they vary across strains (e.g. virality), 2) To learn about the history of the outbreak and 3) to develop a realtime analyiss tool.
+The goal is to use genetic data to learn about key parameters and whether they vary across strains (e.g. virality), 2) To learn about the history of the outbreak and 3) to develop a realtime analyis tool.
 
 To align sequences:
 1) Download the fasta from gisaid
@@ -16,4 +16,5 @@ Downoad meta data from nextstrain git.
 follow instructions there, top to bottom
 
 4) run `notebooks/create_h5.ipynb`
-follow instructions there
+follow instructions there.
+Creates h5 and also tables and .csvs of interesting loci and MAFs
